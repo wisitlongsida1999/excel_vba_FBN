@@ -1,0 +1,9 @@
+Data Type	Customer PO	Order Type	Customer Number	Price List	Ship To Location	FOB	Book Flag (Y/N)	Order Date	Salesperson	Customer PO amount	CC E-Mail To	ASC606					
+Data Type	Customer PO	Ordered Item	Quantity	Request date	Schedule Ship date	Promise Date	Remark	Customer BOI Name	Customer PO Price	Customer PO Price Currency	Internal Pick Slip#	Customer Delivery ID	Customer Trip ID	Use Customer's price for ship? (Y/N)	Customer's Price	Currency Code	Customer PO Line
+H	161754415	FBN FG SAMPLE & NO CHARGE	2617	CISCO for ASN Upload	111797	FCA	Y					NNNNN					
+L	161754415	CFP2-WDM-D-1HL=	2	05-Aug-22	05-Aug-22	05-Aug-22	ATTN: Nagaraj M. | Phone: 080-30801362 | Coo: CN (1), TH (1)		0.9	USD				Y		USD	
+H	161767708	FBN FG SAMPLE & NO CHARGE	2617	CISCO for ASN Upload	111797	FCA	Y					NNNNN					
+L	161767708	QSFP-100G-LR4-S=	1	05-Aug-22	05-Aug-22	05-Aug-22	ATTN: Nagaraj M. | Phone: 080-30801362 | Coo: CN (1)		0.9	USD				Y		USD	
+L	161767708	QSFP-40G-LR4-S=	13	05-Aug-22	05-Aug-22	05-Aug-22	ATTN: Nagaraj M. | Phone: 080-30801362 | Coo: CN (13)		0.9	USD				Y		USD	
+L	161767708	SFP-10G-SR=	12	05-Aug-22	05-Aug-22	05-Aug-22	ATTN: Nagaraj M. | Phone: 080-30801362 | Coo: CN (8), MY (4)		0.9	USD				Y		USD	
+L	161767708	SFP-GE-T=	2	05-Aug-22	05-Aug-22	05-Aug-22	ATTN: Nagaraj M. | Phone: 080-30801362 | Coo: US (2)		0.9	USD				Y		USD	

@@ -1,0 +1,14 @@
+{
+    "app_name": "XVBA",
+    "description": "",
+    "author": "",
+    "email": "",
+    "create_ate": "Thu Dec 22 2022 13:12:59 GMT+0700 (Indochina Time)",
+    "excel_file": "service_vmi_31.xlsm",
+    "vba_folder": "SERVICE_VMI_31",
+    "ribbon_file": "customUI14",
+    "ribbon_folder": "ribbons",
+    "logs": "on",
+    "xvba_packages": {},
+    "xvba_dev_packages": {}
+}
